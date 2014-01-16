@@ -1,0 +1,7 @@
+1. Automatización de acceso a las aplicaciones según su frecuencia de uso descartando las aplicaciones menos ejecutadas.
+2. Utilización de recursos de acuerdo a la prioridad calculada de los procesos partiendo de estadisticas de uso.
+3. Mejora de usabilidad garantizando la velocidad de acceso a los procesos de mayor uso.
+4. El S.O. reconocerá cuando un proceso es innecesario según estadisticas de uso y desactivara su ejecución automática.
+5. Interfaz que se adapta para el usuario final, ofreciéndole rápido acceso a sus aplicaciones más frecuentes.
+6. El S.O. asignará prioridad a los procesos de forma automática según una evaluación sobre estadisticas de tiempo/uso.
+7. El S.O. se adaptará para ejecutar solo los procesos estrictamente necesarios y asi optimizar el rendimiento sobre maquinas con escasos recursos de hardware.
