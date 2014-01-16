@@ -1,4 +1,6 @@
 ensayo_so
 =========
 
-ensayo sobre el futuro de los SO
+ensayo: Automatización de procesos según estadísticas de uso en los S.O.
+
+David Morales Rivera.
